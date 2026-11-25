@@ -27,4 +27,6 @@ I write about the decisions behind the code, troubleshooting and small experimen
 
 My [professional portfolio and CV](https://catanesi.pages.dev/) cover my experience and engineering case studies.
 
+You can also find me on [LinkedIn](https://www.linkedin.com/in/catanesi/).
+
 For project questions, please open an issue in the relevant repository. For other enquiries: [SingularVector@tuta.com](mailto:SingularVector@tuta.com).
